@@ -22,6 +22,9 @@
 		<img alt="image"  src="<c:url value="resources/img/pp.jpg" />" style="width:70px;height:70px;border-radius:360%;display:block;margin:0 auto;">
 		<br><p style="text-align:center;">Congratulation!<br>
 You'll get 3000 MMK presents within 5 minutes by present for random phone numbers program. <br> Thank all ! </p>	
+	<div class="form-group">
+		<a href="https://www.telenor.com.mm/" style="text-decoration:none;"><button class="btn btn-primary" style="display:block;margin:0 auto;">OK</button></a>
+	</div>
 	</div>
 	</div>		
 </body>
